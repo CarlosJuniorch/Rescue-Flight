@@ -1,8 +1,8 @@
 import pygame 
 import random
 
-largura = 1000
-altura = 650
+largura = 800
+altura = 600
 gravidade = 0.5    
 impulso = -10
 velocidade_cano = 3
