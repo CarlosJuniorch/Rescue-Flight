@@ -1,6 +1,6 @@
 —------------------------------------
 DOCUMENTAÇÃO DO PROJETO: RESCUE FLIGHT
-—------------------------------
+—--------------------------------
 
 Visão Geral:
 - Nome do Jogo: Rescue Flight
